@@ -226,6 +226,8 @@ yarn dev
 
 ### Docker (Recommended)
 
+no
+
 ```shell
 docker pull yidadaa/chatgpt-next-web
 
